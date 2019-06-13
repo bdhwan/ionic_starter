@@ -1,5 +1,7 @@
 {
   "name": "ionic_starter",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
