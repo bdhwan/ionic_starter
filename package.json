@@ -6,8 +6,8 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build_android": "ionic cordova prepare android --prod",
-    "build_ios": "ionic cordova prepare ios --prod",
+    "build_android": "ionic cordova prepare android --prod --verbose",
+    "build_ios": "ionic cordova prepare ios --prod --verbose",
     "build": "ng build --prod --aot",
     "test": "ng test",
     "lint": "ng lint",
